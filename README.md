@@ -128,7 +128,7 @@ Aplikasi Streamlit memiliki 4 halaman:
 ## 10. Installation
 
 ```bash
-git clone https://github.com/username/smoking-health-risk.git
+git clone https://github.com/YamamoJuan/smoking-health-risk.git
 cd smoking-health-risk
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
