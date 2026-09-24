@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data / artifacts (kecuali model utama)
+data/*.zip
+models/*.joblib
+!models/model.joblib
+
+# IDE
+.vscode/
+.idea/
